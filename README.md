@@ -1,4 +1,4 @@
-# ![logo-new](https://github.com/user-attachments/assets/20d26ded-418a-4229-8fe3-b4ebcc616e9c) DoodleFlow 
+# <img src="https://github.com/user-attachments/assets/20d26ded-418a-4229-8fe3-b4ebcc616e9c" alt="logo" width="50" /> DoodleFlow 
 
 Doodle App is a simple and intuitive drawing application that allows users to create doodles using various gestures. It supports different interactions like tap, double-tap, long-press, and swipe to perform specific actions effortlessly.
 
